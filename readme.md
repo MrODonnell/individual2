@@ -6,3 +6,4 @@
 * Branches
 * Student repositories
 * GitHub Classrooms
+* Permissions
